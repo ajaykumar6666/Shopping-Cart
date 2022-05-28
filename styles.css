@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.3);
+    background-color: orange;
+    font-family: 'Roboto Flex', sans-serif;
+    margin-top: 20px;
+}
+div{
+    background-color:#F0F8FF;
+    width:fit-content;
+    margin: auto;
+    padding: 40px;
+    
+}
+li{
+    border: 2px solid green;
+    background-color:rgba(0, 255, 0, 0.3);
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    text-align: left;
+    color: red;
+    list-style: none;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+}
+.done{
+    text-decoration:line-through;
+}
+button{
+    width: 200px;
+    padding: 5px;
+    margin: 20px;
+}
+#delete{
+    padding: 20px;
+    margin: auto;
+    margin-left: 1000px;
+    width: 200px;
+    color: brown;
+}
